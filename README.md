@@ -1,4 +1,4 @@
-<h1>Home Lab - Managing Users in Active Directory</h1>
+<h1>Home Lab - Managing Groups and Devices in Active Directory</h1>
 
 <h2>Description</h2>
 In this virtual machine I demonstrate user management, unlocking an account, and password reset in Active Directory.  
