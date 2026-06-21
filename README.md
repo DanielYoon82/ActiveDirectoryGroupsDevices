@@ -24,10 +24,10 @@ Two OU's, Workstations and Servers, have been created to place computers and ser
 </p>
 <br /> 
 
-I proceed with inputting his name and logon name (according to policies for this simulated company). <br />
+From the computer container, I will move them accordingly to the OU's created. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
