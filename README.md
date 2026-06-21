@@ -1,7 +1,7 @@
 <h1>Home Lab - Managing Computers and Groups in Active Directory</h1>
 
 <h2>Description</h2>
-In this virtual machine I demonstrate user management, unlocking an account, and password reset in Active Directory.  
+In this virtual machine I demonstrate computer and group management in Active Directory.  
 <br />
 
 
@@ -16,11 +16,11 @@ In this virtual machine I demonstrate user management, unlocking an account, and
 <h2>Program walk-through:</h2>
 
 
-- <b>Create New User Account</b> <br />
-John Doe is a new hire for the head of the Sales Department. I am assigned to create him as a new user for onboarding. First, I right-click on the Sales OU, then select user.
+- <b>Organizing Groups</b> <br />
+Two OU's, Workstations and Servers, have been created to place computers and servers in.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
