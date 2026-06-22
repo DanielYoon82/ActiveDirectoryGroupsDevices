@@ -39,10 +39,10 @@ OU's has been organized in which policies can now be deployed using Group Policy
 </p>
 <br /> 
 
-From the computer container, I will move them to the OU's created accordingly. <br />
+The Default Domain Policy has been linked to tml.local domain. In the setting tab I can see that this Default Domain Policy only applies to Computer Configurations. <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
