@@ -46,6 +46,13 @@ The Default Domain Policy has been linked to tml.local domain. In the setting ta
 </p>
 <br />
 
+Basic configurations are discovered that apply to most domains including password and account lockout policies. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 - <b>Congifuring Group Membership</b> <br/>
 The head of the Marketing Department requested to add the new hire added to their group. I right-click on the new user and choose properties.  <br />
 <br />
