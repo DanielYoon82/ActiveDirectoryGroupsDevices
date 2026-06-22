@@ -113,6 +113,6 @@ The new GPO was dragged into the root tml.local for enabling completing the task
 
 
 - <b>Summary</b> <br />
-I demonstrated using Windows Active Directory with modeling a VM in creating OU's, creating group policies, changing password policy, managing restricted access, and configuring auto lock screen. Managing computers and group policies was broken down using a VM as a simulation.
+Using Windows Active Directory with modeling a VM in creating OU's, creating group policies, changing password policy, managing restricted access, and configuring auto lock screen was displayed. Managing computers and group policies was broken down using a VM as a simulation.
 <br />
 <br />
