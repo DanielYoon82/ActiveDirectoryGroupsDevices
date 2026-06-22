@@ -20,7 +20,7 @@ In this virtual machine I demonstrate computer and group management in Active Di
 Two OU's, Workstations and Servers, have been created to place computers and servers in. In a professional work environment, it is optimal to segregate devices to set policies.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG.jpg" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
