@@ -17,7 +17,7 @@ In this virtual machine I demonstrate computer and group management in Active Di
 
 
 - <b>Organizing Groups and Creating OU's for Group Policies</b> <br />
-Two OU's, Workstations and Servers, have been created to place computers and servers in. In a professional work environment, it is optimal to segregate devices to set policies consequently.
+Two OU's, Workstations and Servers, have been created to place computers and servers in. In a professional work environment, it is optimal to segregate devices to set policies.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -89,10 +89,25 @@ In Group Policy Management, by dragging the GPO Restrict Control Panel Accesss t
 </p>
 <br />
 
-"Check Names" option was chosen for marketing to verify the group was correct completing group configuration.  <br />
+- <b>Auto Lock Screen in GPO</b> <br />
+A new GPO was created named Auto Lock Screen. This will allow me to change policies from the root domain.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG10.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> 
+
+In the editor I accessed Computer Configurations -> Policies -> Windows Setting -> Security Settings -> Local Policies -> Security Options. I see that Machine Inactivity Limit is Not Defined. Edit was performed and set to inactivity limit to 5 minutes (300 seconds)  <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG11.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+The new GPO was dragged into the root tml.local for enabling completing the task.  <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG12.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
