@@ -16,25 +16,33 @@ In this virtual machine I demonstrate computer and group management in Active Di
 <h2>Program walk-through:</h2>
 
 
-- <b>Organizing Groups</b> <br />
-Two OU's, Workstations and Servers, have been created to place computers and servers in.
+- <b>Organizing Groups and Creating OU's for Group Policies</b> <br />
+Two OU's, Workstations and Servers, have been created to place computers and servers in. In a professional work environment, it is optimal to segregate devices to set policies consequently.
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br /> 
 
-From the computer container, I will move them accordingly to the OU's created. <br />
+From the computer container, I will move them to the OU's created accordingly. <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-A temporary password is set for the user in which they must change with their own unique one thereafter. Setting up the new user is now complete. <br />
+- <b>Group Policy Management</b> <br />
+OU's has been organized in which policies can now be deployed using Group Policy Management individually. Group Policy Objects will allow seperate baselines for devices and users. As shown, there are three existing GPO's in my VM.
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser3.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br /> 
+
+From the computer container, I will move them to the OU's created accordingly. <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG1.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
