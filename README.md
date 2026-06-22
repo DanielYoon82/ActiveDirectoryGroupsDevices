@@ -67,11 +67,11 @@ From there navigating to: Computer Configurations -> Policies -> Windows Setting
 </p>
 <br />
 
-- <b>Congifuring Group Membership</b> <br/>
-The head of the Marketing Department requested to add the new hire added to their group. I right-click on the new user and choose properties.  <br />
+- <b>Restricting Access to Control Panel</b> <br/>
+Here, I would like to restrict access to the Control Panel in exception to the IT Department. I created a new GPO "Restrict Control Panel Access."  <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser4.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
