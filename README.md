@@ -53,6 +53,20 @@ Basic configurations are discovered that apply to most domains including passwor
 </p>
 <br />
 
+As a demonstration, a new policy has been set to use a minimum of 10 characters for passwords. The GPO Default Domain Policy was chosen to edit for all computers.   <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+From there navigating to: Computer Configurations -> Policies -> Windows Setting -> Security Settings -> Account Policies -> Password Policy and changing the required policy value to 10.    <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG6.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 - <b>Congifuring Group Membership</b> <br/>
 The head of the Marketing Department requested to add the new hire added to their group. I right-click on the new user and choose properties.  <br />
 <br />
