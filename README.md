@@ -68,14 +68,14 @@ From there navigating to: Computer Configurations -> Policies -> Windows Setting
 <br />
 
 - <b>Restricting Access to Control Panel</b> <br/>
-Here, I would like to restrict access to the Control Panel in exception to the IT Department. I created a new GPO "Restrict Control Panel Access."  <br />
+Here, I would like to restrict access to the Control Panel in exception to the IT Department. I created a new GPO named "Restrict Control Panel Access."  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG7.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-The "Member Of" tab was chosen then a group added. <br />
+User Configuration -> Administrative Templates -> Control Panel -> was then accessed to enable the feature to restrict access.  <br />
 <br />
 <p align="center">
 <img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
