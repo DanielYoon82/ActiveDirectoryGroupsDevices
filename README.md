@@ -75,10 +75,17 @@ Here, I would like to restrict access to the Control Panel in exception to the I
 </p>
 <br />
 
-User Configuration -> Administrative Templates -> Control Panel -> was then accessed to enable the feature to restrict access.  <br />
+User Configuration -> Administrative Templates -> Control Panel -> was then accessed in the editor to enable the feature to restrict access.  <br />
 <br />
 <p align="center">
-<img src="https://github.com/DanielYoon82/ActiveDirectory/blob/main/images/ActiveDirectoryUser5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG8.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+In Group Policy Management, by dragging the GPO Restrict Control Panel Accesss to the departments other than IT, I successfully restricted access to the Control Panel.  <br />
+<br />
+<p align="center">
+<img src="https://github.com/DanielYoon82/ActiveDirectoryComputersGroups/blob/main/image/ActiveDirectoryCG9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
