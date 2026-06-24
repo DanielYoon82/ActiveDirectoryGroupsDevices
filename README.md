@@ -7,7 +7,7 @@ In this virtual machine I demonstrate computer and group management in Active Di
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Windows Framework</b> 
+- <b>Windows 10</b> 
 
 <h2>Environments Used </h2>
 
